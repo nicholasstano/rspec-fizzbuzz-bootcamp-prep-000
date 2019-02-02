@@ -7,4 +7,3 @@ def fizzbuzz(n)
   
 end
 
-fizzbuzz(3)
