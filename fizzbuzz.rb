@@ -2,16 +2,8 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(int)
-  if int % 15 == 0 
-    "FizzBuzz"
-  end
-  else if int % 3 == 0 
+if int % 3 == 0 
   "Fizz"
-  end
-  else if int % 5 == 0 
-  "Buzz"
 end
-else 
-  "nil"
 end
 
